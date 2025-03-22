@@ -1,13 +1,13 @@
-package Srec.example.GatePass;
+package com.Srec.gatepass;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GatePassApplication {
+public class GatepassApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GatePassApplication.class, args);
+		SpringApplication.run(GatepassApplication.class, args);
 	}
 
 }
